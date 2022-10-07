@@ -1,0 +1,38 @@
+* {
+    background-color: honeydew;
+    font-family: monospace;
+}
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+h2 {
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+table, th, td {
+    border: 0.2px solid black;
+    font-size: 16px;
+}
+th {
+    line-height: 2;
+    background-color: darkslategray;
+    color: goldenrod;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.tags {
+    margin-left: auto;
+    margin-right: auto;
+}
+.column1 {
+    text-align: center;
+}
+.column2 {
+    text-align: center;
+}
+.column4 {
+    text-align: center;
+}
